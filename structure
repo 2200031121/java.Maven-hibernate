@@ -1,0 +1,15 @@
+HibernateHQL_DepartmentCRUD/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── klef/
+│   │   │           └── jfsd/
+│   │   │               └── exam/
+│   │   │                   ├── Department.java
+│   │   │                   └── ClientDemo.java
+│   │   ├── resources/
+│   │       └── hibernate.cfg.xml
+│   ├── test/
+├── pom.xml
+├── README.md
